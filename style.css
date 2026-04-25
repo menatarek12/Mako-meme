@@ -1,0 +1,18 @@
+html{background-color: black;}
+#first{
+    text-align: center;
+    color: white;
+    img { width: 754px;
+    border:5px solid white; }
+    font-family: 'Libre Baskerville', serif;
+}
+h1{  font-size: 2rem;}
+#second{
+    text-align: bottom right;
+    color: white;
+    border-left: 600px solid black;
+    border-top: 400px solid black;
+    img { width: 150px;}
+}
+h6{text-align: right;
+font-size: 1rem;}
